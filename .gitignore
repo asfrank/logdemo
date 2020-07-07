@@ -1,0 +1,4 @@
+# Project exclude paths
+/user/target/
+/utils/target/
+/web/target/
